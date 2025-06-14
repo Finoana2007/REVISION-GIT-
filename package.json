@@ -1,0 +1,21 @@
+{
+  "name": "revisions",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "blablabla je suis la",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finoana2007/REVISION-GIT-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Finoana2007/REVISION-GIT-/issues"
+  },
+  "homepage": "https://github.com/Finoana2007/REVISION-GIT-#readme"
+}
