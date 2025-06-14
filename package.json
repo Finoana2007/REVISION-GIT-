@@ -1,6 +1,6 @@
 {
   "name": "revisions",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "blablabla je suis la",
   "main": "add.js",
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Finoana2007/REVISION-GIT-/issues"
   },
-  "homepage": "https://github.com/Finoana2007/REVISION-GIT-#readme"
+  "homepage": "https://github.com/Finoana2007/REVISION-GIT-#readme",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.6.0"
+  }
 }
